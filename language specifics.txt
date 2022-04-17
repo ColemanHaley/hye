@@ -1,0 +1,4 @@
+LGSPEC01 resultative
+LGSPEC02 future converb 1
+LGSPEC03 future converb 2
+LGSPEC04 connegative
